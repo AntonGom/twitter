@@ -1,8 +1,6 @@
-# Project 3 - *Twitter Part 1*
+# Project 3 - *Twitter*
 
 
-
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
 
 # Twitter - Part II
 
@@ -34,7 +32,7 @@ If the gif does not properly embed please visit the link: https://imgur.com/a/xD
 <img src='https://imgur.com/a/xDqF1o0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-
+----------------------------------
 
 
 **Twitter Part 1** is a basic twitter app to read your tweets.
